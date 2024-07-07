@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Hello First Branch</h1>
+    <h1>Hello Second Branch</h1>
   );
 }
 
